@@ -3,7 +3,8 @@
 ```markdown
 # F.R.I.D.A.Y. Virtual Assistant 🤖
 
-Live Demo  [🔗 click here](https://www.linkedin.com/posts/123vivekkumar_ai-python-openai-activity-7316147688599638016-ltPO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBRXN0BK4Ke32BYzQqy51XgaXcG6kQc0Xc)
+# For walk through one can see the video without downloading [🔗 click here](https://www.linkedin.com/posts/123vivekkumar_ai-python-openai-activity-7316147688599638016-ltPO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFBRXN0BK4Ke32BYzQqy51XgaXcG6kQc0Xc) (just skip the Log-in or signup)
+
 # 🎬 [Watch Demo Video] - from the MP4 file in the Repository
  
 
